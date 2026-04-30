@@ -1,5 +1,5 @@
 # Research Intelligence Platform
-
+![Dashboard Home](images/screenshots/dashboard-home.png)
 A research intelligence dashboard that turns news, academic papers, developer activity, and AI-assisted analysis into a ranked daily briefing for technical decision-making.
 
 > Public showcase repository. This repo documents the product, architecture, and engineering approach without exposing private source code, credentials, database schema details, proprietary ranking logic, or reusable implementation internals.
@@ -48,55 +48,19 @@ The platform helps reduce information overload by aggregating high-volume source
 
 ## Screenshots
 
-Add screenshots to `images/screenshots/` using the filenames below.
-
-![Dashboard Home](images/screenshots/dashboard-home.png)
-
-Caption: Main dashboard showing the daily briefing, top ranked signals, research papers, concepts, and GitHub pulse sections.
 
 ![Daily Signals Feed](images/screenshots/daily-signals-feed.png)
 
-Caption: Ranked signal feed with criticality, source metadata, category tags, and supporting context.
-
-![AI Daily Briefing](images/screenshots/ai-daily-briefing.png)
-
-Caption: Briefing card that summarizes the most important developments and why they matter.
-
-![Research Papers](images/screenshots/research-papers.png)
-
-Caption: Paper discovery section with related concepts, freshness indicators, and links into the analysis workflow.
-
 ![Paper Analysis Workspace](images/screenshots/paper-analysis-workspace.png)
-
-Caption: Upload and analysis workspace for extracting structured takeaways from a research paper.
-
-![Paper Analysis Results](images/screenshots/paper-analysis-results.png)
-
-Caption: Completed paper analysis showing summary, technical contribution, limitations, and follow-up actions.
 
 ![Concept Explorer](images/screenshots/concept-explorer.png)
 
-Caption: Interactive concept graph showing related topics, clusters, evidence, and focused node details.
-
-![Concept Detail Panel](images/screenshots/concept-detail-panel.png)
-
-Caption: Detail panel for a selected concept with supporting evidence and navigation paths.
 
 ![Decision Engine](images/screenshots/decision-engine.png)
 
-Caption: Decision scoring workspace for ranking research directions against a chosen focus.
-
-![GitHub Pulse](images/screenshots/github-pulse.png)
-
-Caption: Developer activity panel showing repository momentum and ecosystem signals.
 
 ![Daily Tech Radar Email](images/screenshots/daily-tech-radar-email.png)
 
-Caption: Email preview or delivered digest showing the daily intelligence snapshot.
-
-![Source Status States](images/screenshots/source-status-states.png)
-
-Caption: UI states that communicate whether a section is using live, cached, fallback, or demo data.
 
 ## Feature Walkthrough
 
